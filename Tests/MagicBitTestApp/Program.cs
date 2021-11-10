@@ -66,7 +66,6 @@ motor2.Speed = 0;
 Console.Clear();
 Console.WriteLine("Buzzer");
 Console.CursorTop = 2;
-Console.CursorTop = 2;
 Console.WriteLine("Clk left button to stop");
 // You have events on the button and can register them
 MagicBit.ButtonLeft.Press += (sender, e) =>
