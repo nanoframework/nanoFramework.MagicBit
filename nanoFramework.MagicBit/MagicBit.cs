@@ -223,6 +223,11 @@ namespace nanoFramework.MagicBit
             }
         }
 
+        /// <summary>
+        /// Gets the GPIO controller.
+        /// </summary>
+        public static GpioController GpioController { get => _gpio; }
+
         static MagicBit()
         {
             // setup Gpio controller and make sure the motor are stopped
@@ -276,8 +281,7 @@ namespace nanoFramework.MagicBit
         /// <summary>
         /// Gets the Blue pin and open it as desired.
         /// </summary>
-        /// <param name="pinMode">The desired pin mode.</param>
-        /// <returns>A GpioPin.</returns>
+        /// <returns>A PwmChannel.</returns>
         static public PwmChannel GetPinBlue()
         {
             if (_bluePin == null)
@@ -289,6 +293,13 @@ namespace nanoFramework.MagicBit
             return _bluePin;
         }
 
+        /// <summary>
+        /// Gets a servo motor on the blue pin.
+        /// </summary>
+        /// <param name="maxAngle">The maximum angle</param>
+        /// <param name="minPuls">The minimum pulse.</param>
+        /// <param name="maxPuls">The maximum pulse.</param>
+        /// <returns></returns>
         static public ServoMotor GetServoPinBlue(int maxAngle = 180, int minPuls = 1000, int maxPuls = 2000)
         {
             if (_servoPinBlue == null)
