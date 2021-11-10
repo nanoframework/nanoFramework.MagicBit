@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nanoFramework.MagicBit</id>
+    <version>$version$</version>
+    <title>nanoFramework.MagicBit</title>
+    <authors>nanoFramework project contributors</authors>
+    <owners>nanoFramework project contributors,dotnetfoundation</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <releaseNotes>
+    </releaseNotes>
+    <developmentDependency>false</developmentDependency>
+    <projectUrl>https://github.com/nanoframework/nanoFramework.MagicBit</projectUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/97d0e092247f0716db6d4b47b7d1d1ad</iconUrl>
+    <icon>images\nf-logo.png</icon>
+    <repository type="git" url="https://github.com/nanoframework/nanoFramework.MagicBit" commit="$commit$" />
+    <copyright>Copyright (c) .NET Foundation and Contributors</copyright>
+    <description>This package includes nanoFramework.MagicBit, a board package library for MagicBit in nanoFramework C# projects.</description>
+    <summary>nanoFramework.MagicBit is a board package class library for nanoFramework C# projects</summary>
+    <tags>nanoFramework C# csharp netmf netnf nanoframework MagicBit</tags>
+    <dependencies>
+      <dependency id="nanoFramework.CoreLibrary" version="1.10.5-preview.13" />
+      <dependency id="nanoFramework.System.Collections" version="1.2.0-preview.67" />
+      <dependency id="nanoFramework.System.Text" version="1.1.1-preview.61" />
+      <dependency id="nanoFramework.Windows.Storage.Streams" version="1.12.2-preview.11" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="nanoFramework.MagicBit\bin\Release\nanoFramework.MagicBit.dll" target="lib\nanoFramework.MagicBit.dll" />
+    <file src="nanoFramework.MagicBit\bin\Release\nanoFramework.MagicBit.pdb" target="lib\nanoFramework.MagicBit.pdb" />
+    <file src="nanoFramework.MagicBit\bin\Release\nanoFramework.MagicBit.pdbx" target="lib\nanoFramework.MagicBit.pdbx" />
+    <file src="nanoFramework.MagicBit\bin\Release\nanoFramework.MagicBit.pe" target="lib\nanoFramework.MagicBit.pe" />
+    <file src="nanoFramework.MagicBit\bin\Release\nanoFramework.MagicBit.xml" target="lib\nanoFramework.MagicBit.xml" />
+    <file src="assets\readme.txt" target="" />
+    <file src="assets\nf-logo.png" target="images\" />
+    <file src="LICENSE.md" target="" />
+  </files>
+</package>
