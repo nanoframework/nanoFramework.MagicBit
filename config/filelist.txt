@@ -1,1 +1,1 @@
-**/nanoFramework.Json.*
+**/nanoFramework.MagicBit.*
