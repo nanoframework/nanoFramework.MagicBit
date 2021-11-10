@@ -281,8 +281,7 @@ namespace nanoFramework.MagicBit
         /// <summary>
         /// Gets the Blue pin and open it as desired.
         /// </summary>
-        /// <param name="pinMode">The desired pin mode.</param>
-        /// <returns>A GpioPin.</returns>
+        /// <returns>A PwmChannel.</returns>
         static public PwmChannel GetPinBlue()
         {
             if (_bluePin == null)
