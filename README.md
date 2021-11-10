@@ -38,7 +38,7 @@ MagicBit.InitializeScreen();
 
 Once you've initialized it, you can access both a `Screen` static class and a `Console` static class.
 
-THe `Screen` one brings primitives to write directly on the screen points or scare of colors as well as writing a text.
+The `Screen` one brings primitives to write directly on the screen points, select colors as well as writing a text.
 
 For example, you can write a small buffer square of 8x8 at the position 0, 26 with a width of 8 like this:
 
