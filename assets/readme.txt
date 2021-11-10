@@ -6,7 +6,7 @@
                                                                                
 ===================================================================================
 
-API docs: https://docs.nanoframework.net/api/nanoFramework.Json.html
+API docs: https://docs.nanoframework.net/api/nanoFramework.MagicBit.html
 
 Browse our samples repository: https://github.com/nanoframework/samples
 
