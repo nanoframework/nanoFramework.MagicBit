@@ -21,7 +21,7 @@ pool:
 
 variables:
   DOTNET_NOLOGO: true
-  solution: '**/*.sln'
+  solution: 'nanoFramework.MagicBit.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
   nugetPackageName: 'nanoFramework.MagicBit'
@@ -32,7 +32,7 @@ steps:
 # all build, update and publish steps
 - template: azure-pipelines-templates/class-lib-build.yml@templates
   parameters:
-    sonarCloudProject: 'nanoframework_lib-nanoFramework.MagicBit'
+    sonarCloudProject: 'nanoframework_nanoFramework.MagicBit'
 
 # step from template @ nf-tools repo
 # report error
