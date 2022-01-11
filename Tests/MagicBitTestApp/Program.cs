@@ -5,6 +5,7 @@ using System.Device.Gpio;
 using System.Device.I2c;
 using System.Diagnostics;
 using System.Threading;
+using Console = nanoFramework.MagicBit.Console;
 
 byte[] _heart = new byte[] {
             0b0100_0010,
