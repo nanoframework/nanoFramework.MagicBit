@@ -19,8 +19,8 @@
     <description>This package includes nanoFramework.MagicBit, a board package library for MagicBit in .NET nanoFramework C# projects.</description>
     <tags>nanoFramework C# csharp netmf netnf nanoframework MagicBit</tags>
     <dependencies>
-      <dependency id="nanoFramework.CoreLibrary" version="1.11.7" />
-      <dependency id="nanoFramework.Hardware.Esp32" version="1.3.5-preview.3" />
+      <dependency id="nanoFramework.CoreLibrary" version="1.12.0-preview.1" />
+      <dependency id="nanoFramework.Hardware.Esp32" version="1.3.5-preview.5" />
       <dependency id="nanoFramework.Iot.Device.Button" version="1.0.272" />
       <dependency id="nanoFramework.Iot.Device.Buzzer" version="1.0.272" />
       <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.0.272" />
