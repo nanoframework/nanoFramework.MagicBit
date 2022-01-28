@@ -22,24 +22,24 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Iot.Device.Button, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.Button.1.0.288-preview.5\lib\Iot.Device.Button.dll</HintPath>
+    <Reference Include="Iot.Device.Button, Version=0.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.Button.1.0.288-preview.20\lib\Iot.Device.Button.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Iot.Device.Buzzer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.Buzzer.1.0.288-preview.5\lib\Iot.Device.Buzzer.dll</HintPath>
+    <Reference Include="Iot.Device.Buzzer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.Buzzer.1.0.288-preview.22\lib\Iot.Device.Buzzer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Iot.Device.DCMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.DCMotor.1.0.288-preview.5\lib\Iot.Device.DCMotor.dll</HintPath>
+    <Reference Include="Iot.Device.DCMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.DCMotor.1.0.288-preview.22\lib\Iot.Device.DCMotor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Iot.Device.ServoMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.ServoMotor.1.0.272\lib\Iot.Device.ServoMotor.dll</HintPath>
+    <Reference Include="Iot.Device.ServoMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.ServoMotor.1.0.288-preview.20\lib\Iot.Device.ServoMotor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Iot.Device.Ssd13xx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.Ssd13xx.1.0.281\lib\Iot.Device.Ssd13xx.dll</HintPath>
+    <Reference Include="Iot.Device.Ssd13xx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.Ssd13xx.1.0.288-preview.20\lib\Iot.Device.Ssd13xx.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib, Version=1.12.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
@@ -62,8 +62,8 @@
       <HintPath>..\..\packages\nanoFramework.System.Device.I2c.1.0.3-preview.4\lib\System.Device.I2c.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="System.Device.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\nanoFramework.System.Device.Model.1.0.259\lib\System.Device.Model.dll</HintPath>
+    <Reference Include="System.Device.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.System.Device.Model.1.0.288-preview.20\lib\System.Device.Model.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Device.Pwm, Version=1.0.1.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
