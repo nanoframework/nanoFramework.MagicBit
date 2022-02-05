@@ -27,15 +27,15 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Iot.Device.Button, Version=0.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.Iot.Device.Button.1.0.288-preview.29\lib\Iot.Device.Button.dll</HintPath>
+      <HintPath>..\packages\nanoFramework.Iot.Device.Button.1.0.288-preview.48\lib\Iot.Device.Button.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Iot.Device.Buzzer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.Iot.Device.Buzzer.1.0.288-preview.41\lib\Iot.Device.Buzzer.dll</HintPath>
+      <HintPath>..\packages\nanoFramework.Iot.Device.Buzzer.1.0.288-preview.48\lib\Iot.Device.Buzzer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Iot.Device.DCMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.Iot.Device.DCMotor.1.0.288-preview.42\lib\Iot.Device.DCMotor.dll</HintPath>
+      <HintPath>..\packages\nanoFramework.Iot.Device.DCMotor.1.0.288-preview.48\lib\Iot.Device.DCMotor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Iot.Device.ServoMotor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
@@ -43,7 +43,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Iot.Device.Ssd13xx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.Iot.Device.Ssd13xx.1.0.288-preview.20\lib\Iot.Device.Ssd13xx.dll</HintPath>
+      <HintPath>..\packages\nanoFramework.Iot.Device.Ssd13xx.1.0.288-preview.48\lib\Iot.Device.Ssd13xx.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib, Version=1.12.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
@@ -79,7 +79,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Math, Version=1.4.4.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.System.Math.1.4.4-preview.11\lib\System.Math.dll</HintPath>
+      <HintPath>..\packages\nanoFramework.System.Math.1.4.4-preview.13\lib\System.Math.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="UnitsNet.Frequency, Version=4.116.0.0, Culture=neutral, PublicKeyToken=null">
