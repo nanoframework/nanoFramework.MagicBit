@@ -4,8 +4,7 @@
     <id>nanoFramework.MagicBit</id>
     <version>$version$</version>
     <title>nanoFramework.MagicBit</title>
-    <authors>nanoFramework project contributors</authors>
-    <owners>nanoframework,dotnetfoundation</owners>
+    <authors>nanoframework</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">LICENSE.md</license>
     <releaseNotes>
