@@ -29,7 +29,7 @@
       <dependency id="nanoFramework.System.Device.Adc" version="1.0.2-preview.11" />
       <dependency id="nanoFramework.System.Device.Gpio" version="1.0.3-preview.16" />
       <dependency id="nanoFramework.System.Device.I2c" version="1.0.3-preview.11" />
-      <dependency id="nanoFramework.System.Device.Model" version="1.0.288-preview.64" />
+      <dependency id="nanoFramework.System.Device.Model" version="1.0.288-preview.92" />
       <dependency id="nanoFramework.System.Device.Pwm" version="1.0.1-preview.11" />
       <dependency id="nanoFramework.System.Math" version="1.4.4-preview.19" />
       <dependency id="UnitsNet.nanoFramework.Frequency" version="4.125.0" />
