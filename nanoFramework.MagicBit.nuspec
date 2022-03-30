@@ -27,9 +27,9 @@
       <dependency id="nanoFramework.Iot.Device.Ssd13xx" version="1.0.288-preview.113" />
       <dependency id="nanoFramework.Runtime.Events" version="1.9.2-preview.8" />
       <dependency id="nanoFramework.System.Device.Adc" version="1.0.2-preview.15" />
-      <dependency id="nanoFramework.System.Device.Gpio" version="1.0.3-preview.22" />
-      <dependency id="nanoFramework.System.Device.I2c" version="1.0.3-preview.15" />
-      <dependency id="nanoFramework.System.Device.Model" version="1.0.288-preview.97" />
+      <dependency id="nanoFramework.System.Device.Gpio" version="1.0.4" />
+      <dependency id="nanoFramework.System.Device.I2c" version="1.0.3" />
+      <dependency id="nanoFramework.System.Device.Model" version="1.0.288" />
       <dependency id="nanoFramework.System.Device.Pwm" version="1.0.1" />
       <dependency id="nanoFramework.System.Math" version="1.4.4" />
       <dependency id="UnitsNet.nanoFramework.Frequency" version="4.126.0" />
