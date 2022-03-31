@@ -25,7 +25,6 @@
       <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.0.272" />
       <dependency id="nanoFramework.Iot.Device.ServoMotor" version="1.0.272" />
       <dependency id="nanoFramework.Iot.Device.Ssd13xx" version="1.0.281" />
-      <dependency id="nanoFramework.Runtime.Events" version="1.9.2-preview.8" />
       <dependency id="nanoFramework.System.Device.Adc" version="1.0.2" />
       <dependency id="nanoFramework.System.Device.Gpio" version="1.0.4" />
       <dependency id="nanoFramework.System.Device.I2c" version="1.0.3" />
