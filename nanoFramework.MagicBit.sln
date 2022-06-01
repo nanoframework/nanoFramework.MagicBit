@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "nanoFramework.MagicBit", "nanoFramework.MagicBit\nanoFramework.MagicBit.nfproj", "{08E6B7CB-17CC-46EB-8CC6-9C8235CBF0FF}"
 EndProject
