@@ -6,6 +6,7 @@
 
 **Documentation and other chores:**
 
+- Update 1 NuGet dependencies [\#66](https://github.com/nanoframework/nanoFramework.MagicBit/pull/66)
 - Update 1 NuGet dependencies [\#65](https://github.com/nanoframework/nanoFramework.MagicBit/pull/65)
 - Update 1 NuGet dependencies [\#64](https://github.com/nanoframework/nanoFramework.MagicBit/pull/64)
 - Update 1 NuGet dependencies [\#63](https://github.com/nanoframework/nanoFramework.MagicBit/pull/63)
