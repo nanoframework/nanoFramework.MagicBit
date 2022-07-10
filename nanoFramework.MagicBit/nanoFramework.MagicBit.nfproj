@@ -42,8 +42,8 @@
       <HintPath>..\packages\nanoFramework.Iot.Device.ServoMotor.1.1.113.2032\lib\Iot.Device.ServoMotor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Iot.Device.Ssd13xx, Version=1.1.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\packages\nanoFramework.Iot.Device.Ssd13xx.1.1.113.2032\lib\Iot.Device.Ssd13xx.dll</HintPath>
+    <Reference Include="Iot.Device.Ssd13xx, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\packages\nanoFramework.Iot.Device.Ssd13xx.1.2.3\lib\Iot.Device.Ssd13xx.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib, Version=1.12.0.4, Culture=neutral, PublicKeyToken=c07d481e9758c731">
