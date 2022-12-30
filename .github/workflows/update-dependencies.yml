@@ -19,3 +19,4 @@ jobs:
     secrets: inherit
     with:
       solutionsToCheck: 'nanoFramework.MagicBit.sln'
+      nugetConfig: 'NuGet.config'
