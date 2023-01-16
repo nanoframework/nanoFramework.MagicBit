@@ -15,4 +15,4 @@ jobs:
     uses: nanoframework/nf-tools/.github/workflows/check-packages-updated.yml@main
     secrets: inherit
     with:
-      solution: 'nanoFramework.MagicBit.slnn'
+      solution: 'nanoFramework.MagicBit.sln'
