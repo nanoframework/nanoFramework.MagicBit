@@ -19,7 +19,7 @@
     <tags>nanoFramework C# csharp netmf netnf nanoframework MagicBit</tags>
     <dependencies>
       <dependency id="nanoFramework.CoreLibrary" version="1.14.2" />
-      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.1" />
+      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.3" />
       <dependency id="nanoFramework.Iot.Device.Button" version="1.2.273" />
       <dependency id="nanoFramework.Iot.Device.Buzzer" version="1.2.273" />
       <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.2.203" />
