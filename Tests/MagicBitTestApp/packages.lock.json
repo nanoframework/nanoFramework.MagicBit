@@ -88,9 +88,9 @@
       },
       "UnitsNet.nanoFramework.Frequency": {
         "type": "Direct",
-        "requested": "[5.10.0, 5.10.0]",
-        "resolved": "5.10.0",
-        "contentHash": "xLoELsGHFEhmkmL+GCEyCiTuuaKLVCrMV/4huPSy/emygcm2Sw8dSgohlWi/EqYT9H26SvjuCmpVO4caegYOyA=="
+        "requested": "[5.11.0, 5.11.0]",
+        "resolved": "5.11.0",
+        "contentHash": "fFsuBgKmiv6tMp7kk4OFoo63npcH0Yz5QVxCVrDwcRmbjf4/gB9Pa0lALRxJiJ6nbBekmkj4ilsNBI3yYzrpig=="
       }
     }
   }
