@@ -18,8 +18,8 @@
     <description>This package includes nanoFramework.MagicBit, a board package library for MagicBit in .NET nanoFramework C# projects.</description>
     <tags>nanoFramework C# csharp netmf netnf nanoframework MagicBit</tags>
     <dependencies>
-      <dependency id="nanoFramework.CoreLibrary" version="1.14.2" />
-      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.8" />
+      <dependency id="nanoFramework.CoreLibrary" version="1.15.5" />
+      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.10" />
       <dependency id="nanoFramework.Iot.Device.Button" version="1.2.329" />
       <dependency id="nanoFramework.Iot.Device.Buzzer" version="1.2.416" />
       <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.2.329" />
@@ -28,7 +28,7 @@
       <dependency id="nanoFramework.System.Device.Adc" version="1.1.6" />
       <dependency id="nanoFramework.System.Device.Gpio" version="1.1.28" />
       <dependency id="nanoFramework.System.Device.I2c" version="1.1.11" />
-      <dependency id="nanoFramework.System.Device.Model" version="1.2.415" />
+      <dependency id="nanoFramework.System.Device.Model" version="1.2.418" />
       <dependency id="nanoFramework.System.Device.Pwm" version="1.1.6" />
       <dependency id="nanoFramework.System.Math" version="1.5.29" />
       <dependency id="UnitsNet.nanoFramework.Frequency" version="5.35.0" />
