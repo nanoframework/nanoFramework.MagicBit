@@ -2,7 +2,15 @@
 
 ## [**Changes available only in 'Preview' NuGet packages:**](https://github.com/nanoframework/nanoframework.MagicBit/tree/HEAD)
 
-[Full Changelog](https://github.com/nanoframework/nanoframework.MagicBit/compare/v1.2.103...HEAD)
+[Full Changelog](https://github.com/nanoframework/nanoframework.MagicBit/compare/v1.2.105...HEAD)
+
+**Documentation and other chores:**
+
+- Update 2 NuGet dependencies [\#169](https://github.com/nanoframework/nanoFramework.MagicBit/pull/169)
+
+## [v1.2.105](https://github.com/nanoframework/nanoframework.MagicBit/tree/v1.2.105) (2023-12-07)
+
+[Full Changelog](https://github.com/nanoframework/nanoframework.MagicBit/compare/v1.2.103...v1.2.105)
 
 **Documentation and other chores:**
 
