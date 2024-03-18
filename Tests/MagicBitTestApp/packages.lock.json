@@ -34,9 +34,9 @@
       },
       "nanoFramework.Iot.Device.Ssd13xx": {
         "type": "Direct",
-        "requested": "[1.3.250, 1.3.250]",
-        "resolved": "1.3.250",
-        "contentHash": "fyfAEdoeoQo3Soxo7irCjg6OY9WkQb2bcJKSml3klSpRh6IPaEa2YIlEmrFYW/yZCF8nOnAxP7mQtf+4qoMrHw=="
+        "requested": "[1.3.326, 1.3.326]",
+        "resolved": "1.3.326",
+        "contentHash": "Ial283FaLvVZGo6p0d0ljH/eakpAgr+6w4s5FbnLcT6jB+t225pJiCYjKI5t4zY3dWHCuMfrNBbkDAiqNQc38Q=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
