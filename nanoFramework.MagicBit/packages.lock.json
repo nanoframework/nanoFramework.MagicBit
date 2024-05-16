@@ -10,15 +10,15 @@
       },
       "nanoFramework.Hardware.Esp32": {
         "type": "Direct",
-        "requested": "[1.6.12, 1.6.12]",
-        "resolved": "1.6.12",
-        "contentHash": "jYlXdtzTu46FfOEfrmhZxYqmHHFAORPqBAS0/S+xWNnnVRhwO/HAGWWheCcu4PN2uPEOgV2X6YOCs1xYRcpopw=="
+        "requested": "[1.6.15, 1.6.15]",
+        "resolved": "1.6.15",
+        "contentHash": "6rHNyfZ2mHEq5Kwwx4Xpf3IezTQxfSrI159CKiG4MxQZi8E0VPrRLbyUIXDrNBiz0/VCmeBAKpqv9foJmixCLA=="
       },
       "nanoFramework.Iot.Device.Button": {
         "type": "Direct",
-        "requested": "[1.2.536, 1.2.536]",
-        "resolved": "1.2.536",
-        "contentHash": "dp8x6RlXugPmwLIMesBxJA6yOaLoGzFZBVBIkZ3WLxD8v9MSK3qLJVjJCq7kgyCnvhrQ8o6vCZ2YbdlOCJl4KA=="
+        "requested": "[1.2.548, 1.2.548]",
+        "resolved": "1.2.548",
+        "contentHash": "t2/x6X6/Sz6k5pXdGUaXc8iGZ0qRHJB64IknxgkwvPWykoweN0YUDlD7vtmiV1uhdp7T4fWOam+5MvbNuo1UkA=="
       },
       "nanoFramework.Iot.Device.Buzzer": {
         "type": "Direct",
@@ -28,9 +28,9 @@
       },
       "nanoFramework.Iot.Device.DCMotor": {
         "type": "Direct",
-        "requested": "[1.2.436, 1.2.436]",
-        "resolved": "1.2.436",
-        "contentHash": "LwHNvQnScsezBVEe3m0JCDpV1kS+YLq8hDFIiekSMrzoGYds5GpGLmsn05WW7xmtDPk9jYfkTQKN8Thqvlnqhg=="
+        "requested": "[1.2.548, 1.2.548]",
+        "resolved": "1.2.548",
+        "contentHash": "d9wD229b+/d8pGteUt+pBzSjkGiJxFECBcRt67X5lMXVH1v7ggSfLuPBNfNCvBnOTOIeqBc1NJZgHQ6j1bp2Tg=="
       },
       "nanoFramework.Iot.Device.ServoMotor": {
         "type": "Direct",
@@ -40,9 +40,9 @@
       },
       "nanoFramework.Iot.Device.Ssd13xx": {
         "type": "Direct",
-        "requested": "[1.3.350, 1.3.350]",
-        "resolved": "1.3.350",
-        "contentHash": "4IxImkOjKv2rX++llOu+oFuhC/QpAD6yuyTu+itNpwEGHnVE8e9aV95hoEGpg+51UmXJqPyaXll7SfOR8Z/XUg=="
+        "requested": "[1.3.362, 1.3.362]",
+        "resolved": "1.3.362",
+        "contentHash": "JM61HoDp0Yc6RpCpX+Z6Ttd+18rBBbsUVQKhOh3ytL/H3nHVWQ+svnNB8d4VCxq4y/LMoSItarpZIW1quKfO/g=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
