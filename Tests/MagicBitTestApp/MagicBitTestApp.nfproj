@@ -28,7 +28,7 @@
       <HintPath>..\..\packages\nanoFramework.Iot.Device.Button.1.2.570\lib\Iot.Device.Button.dll</HintPath>
     </Reference>
     <Reference Include="Iot.Device.Buzzer, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.Buzzer.1.2.590\lib\Iot.Device.Buzzer.dll</HintPath>
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.Buzzer.1.2.601\lib\Iot.Device.Buzzer.dll</HintPath>
     </Reference>
     <Reference Include="Iot.Device.DCMotor, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
       <HintPath>..\..\packages\nanoFramework.Iot.Device.DCMotor.1.2.570\lib\Iot.Device.DCMotor.dll</HintPath>
@@ -66,8 +66,8 @@
     <Reference Include="System.Threading, Version=1.1.32.63105, Culture=neutral, PublicKeyToken=c07d481e9758c731">
       <HintPath>..\..\packages\nanoFramework.System.Threading.1.1.32\lib\System.Threading.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.Frequency, Version=5.54.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\UnitsNet.nanoFramework.Frequency.5.54.0\lib\UnitsNet.Frequency.dll</HintPath>
+    <Reference Include="UnitsNet.Frequency, Version=5.55.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\UnitsNet.nanoFramework.Frequency.5.55.0\lib\UnitsNet.Frequency.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
