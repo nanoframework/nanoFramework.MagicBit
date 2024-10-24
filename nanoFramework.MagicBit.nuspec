@@ -20,15 +20,15 @@
     <dependencies>
       <dependency id="nanoFramework.CoreLibrary" version="1.15.5" />
       <dependency id="nanoFramework.Hardware.Esp32" version="1.6.19" />
-      <dependency id="nanoFramework.Iot.Device.Button" version="1.2.631" />
-      <dependency id="nanoFramework.Iot.Device.Buzzer" version="1.2.656" />
-      <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.2.631" />
-      <dependency id="nanoFramework.Iot.Device.ServoMotor" version="1.2.631" />
-      <dependency id="nanoFramework.Iot.Device.Ssd13xx" version="1.3.445" />
+      <dependency id="nanoFramework.Iot.Device.Button" version="1.2.673" />
+      <dependency id="nanoFramework.Iot.Device.Buzzer" version="1.2.673" />
+      <dependency id="nanoFramework.Iot.Device.DCMotor" version="1.2.673" />
+      <dependency id="nanoFramework.Iot.Device.ServoMotor" version="1.2.673" />
+      <dependency id="nanoFramework.Iot.Device.Ssd13xx" version="1.3.487" />
       <dependency id="nanoFramework.System.Device.Adc" version="1.1.11" />
       <dependency id="nanoFramework.System.Device.Gpio" version="1.1.41" />
       <dependency id="nanoFramework.System.Device.I2c" version="1.1.16" />
-      <dependency id="nanoFramework.System.Device.Model" version="1.2.628" />
+      <dependency id="nanoFramework.System.Device.Model" version="1.2.670" />
       <dependency id="nanoFramework.System.Device.Pwm" version="1.1.10" />
       <dependency id="nanoFramework.System.Math" version="1.5.43" />
       <dependency id="UnitsNet.nanoFramework.Frequency" version="5.60.0" />
