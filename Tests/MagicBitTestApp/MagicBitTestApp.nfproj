@@ -66,8 +66,8 @@
     <Reference Include="System.Threading, Version=1.1.32.63105, Culture=neutral, PublicKeyToken=c07d481e9758c731">
       <HintPath>..\..\packages\nanoFramework.System.Threading.1.1.32\lib\System.Threading.dll</HintPath>
     </Reference>
-    <Reference Include="UnitsNet.Frequency, Version=5.63.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\UnitsNet.nanoFramework.Frequency.5.63.0\lib\UnitsNet.Frequency.dll</HintPath>
+    <Reference Include="UnitsNet.Frequency, Version=5.65.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\UnitsNet.nanoFramework.Frequency.5.65.0\lib\UnitsNet.Frequency.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
