@@ -16,33 +16,33 @@
       },
       "nanoFramework.Iot.Device.Button": {
         "type": "Direct",
-        "requested": "[1.2.737, 1.2.737]",
-        "resolved": "1.2.737",
-        "contentHash": "sOcjpoHlsA7OXZCSpeLeO1XJQDIo3i1vTBhz1zko3Op4csrlrbld8jLD6XPfnsLkDypdP6SpThBZvIA6OkOdkg=="
+        "requested": "[1.2.755, 1.2.755]",
+        "resolved": "1.2.755",
+        "contentHash": "CXUV9BueK2u8vJJ8BOSjxYprs29INVY4VehodA/s0+z0r6mpNzXCHZQ+29AzcT9go2hXQDci9cFTlMf2yLGm/g=="
       },
       "nanoFramework.Iot.Device.Buzzer": {
         "type": "Direct",
-        "requested": "[1.2.743, 1.2.743]",
-        "resolved": "1.2.743",
-        "contentHash": "pR4rg5Cx1jmxbYLqtshabNytsN/E9P4oPGO7ATUtn0/soJ1llgRbRt2WUzHWoKcb55RwGkfajNaxQ0rg1qGhqw=="
+        "requested": "[1.2.755, 1.2.755]",
+        "resolved": "1.2.755",
+        "contentHash": "kNsaE+L/08lsLP6jqtJBDv6BvdNuE4r1eB0EAuq/R8ks7daIGuWk7YXoCVvYMvMCMdtVnuRoQvTuJR4vwsU3FA=="
       },
       "nanoFramework.Iot.Device.DCMotor": {
         "type": "Direct",
-        "requested": "[1.2.737, 1.2.737]",
-        "resolved": "1.2.737",
-        "contentHash": "NSDv21zXZ52nxqAz16no/TArRJVg5s2kVRyjNogYleGWvRpv2rWNo6EZdBG+xWX1Hv85b4NP+YTb4nh4uYLPLQ=="
+        "requested": "[1.2.755, 1.2.755]",
+        "resolved": "1.2.755",
+        "contentHash": "TQoBueKst4wFhyjqJEVTADvX7Q9b+ePqXlDKGOFQZwj1GjcZTWYbxeHrbYF5I1bsEr4x1W+pyASasjNddjepDA=="
       },
       "nanoFramework.Iot.Device.ServoMotor": {
         "type": "Direct",
-        "requested": "[1.2.737, 1.2.737]",
-        "resolved": "1.2.737",
-        "contentHash": "wpzaObCOOgiOSVQAAx0836PLz2DaspHCLii2eFP/tsmGTy6LWXVwNxDa234CYKhH2z/c331I9Gdk3zt0K4137Q=="
+        "requested": "[1.2.755, 1.2.755]",
+        "resolved": "1.2.755",
+        "contentHash": "EXptJ3/UEM2VX5631IJLbc3GxpDkToAuvFhzS9AET4TlXlhG0RFWC0nEUE3HCjgmfyDC4TAYNY2oDQU62xn81g=="
       },
       "nanoFramework.Iot.Device.Ssd13xx": {
         "type": "Direct",
-        "requested": "[1.3.551, 1.3.551]",
-        "resolved": "1.3.551",
-        "contentHash": "9Dq3UxOua49x6R/NjxuG/8wOJEmtY5Vr+32DezK1JSvFz8Thh30/fQGLWN+LgsziebNUfd4BQ0bHLyUfH31Tlg=="
+        "requested": "[1.3.569, 1.3.569]",
+        "resolved": "1.3.569",
+        "contentHash": "5CTaUZsSE9Rx6xmciGqjWdDp+Jh3RItgjbj0DPhDdatS/w3LTgRmj/09Z2Qz+Gl0TfFQg5cfKonwysZ0fuCS0w=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -58,9 +58,9 @@
       },
       "nanoFramework.System.Device.Gpio": {
         "type": "Direct",
-        "requested": "[1.1.41, 1.1.41]",
-        "resolved": "1.1.41",
-        "contentHash": "5QnpdfvjxOvka2S5IHSdKudWmkH+CDQ3TFFuXOGuNlgZJFsAx0/k5zuwgJYkxIyGbL8kdcjBWLyDNdihjA1pUg=="
+        "requested": "[1.1.52, 1.1.52]",
+        "resolved": "1.1.52",
+        "contentHash": "XkgsWQ5JMPUeKC+4IpFHtgzYLtYPI9qP6BnN1Z//L90boarLJ88FY/dqb1OsYdJJaTwtpXm/unatOvkLYdYfZQ=="
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
@@ -70,9 +70,9 @@
       },
       "nanoFramework.System.Device.Model": {
         "type": "Direct",
-        "requested": "[1.2.693, 1.2.693]",
-        "resolved": "1.2.693",
-        "contentHash": "qqtaeVyJar8vCSV9NdOluPs9DbcCM/j2xH8PDbzbOQXnKJ25+2s2hr48OHvmf1m+FUnXYXRHupf5qhWiB4mSUw=="
+        "requested": "[1.2.751, 1.2.751]",
+        "resolved": "1.2.751",
+        "contentHash": "9o3ChWA213pUpUq1kpyhmFfiapZVCIBumQgWRZ3yFVB6OdkYcG+2Niwwdk/S8a2FR5HZXZvRaSg4YeXwJ7Y2Fw=="
       },
       "nanoFramework.System.Device.Pwm": {
         "type": "Direct",
