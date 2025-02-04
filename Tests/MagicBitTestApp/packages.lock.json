@@ -10,21 +10,21 @@
       },
       "nanoFramework.Iot.Device.Button": {
         "type": "Direct",
-        "requested": "[1.2.772, 1.2.772]",
-        "resolved": "1.2.772",
-        "contentHash": "tTCVIeAUOOe9WhCMC93gHdtqGZoBxhij0gPiRi7erSBdgFy2j0s/znsZo1+75OI2E9JzFFxwlERE82z7Sxcvtg=="
+        "requested": "[1.2.775, 1.2.775]",
+        "resolved": "1.2.775",
+        "contentHash": "Eu0P0ZocW3Uc0PUZqpfzWkF88GbmZxezkrZt3uGCsDBogd39Qhe2oMj9SveH1nGLEVYWxBxoNZjosiW3XRQAhQ=="
       },
       "nanoFramework.Iot.Device.Buzzer": {
         "type": "Direct",
-        "requested": "[1.2.772, 1.2.772]",
-        "resolved": "1.2.772",
-        "contentHash": "KdBoMosK/tbytoGkxiPt4afbou6pQfEDiMjRE7TbbUaQk0NAxDp7A/jFJeR2Z64/1AZHhCdBUUdrBD79fFaorg=="
+        "requested": "[1.2.775, 1.2.775]",
+        "resolved": "1.2.775",
+        "contentHash": "IIBhY8T/s8SYeS4KL/rR53C0BTVVjqkDUoTcw02i8sScvu76OLa9JCE6loieyXpGvl+JGV0Up6oLjOgS9kf3xg=="
       },
       "nanoFramework.Iot.Device.DCMotor": {
         "type": "Direct",
-        "requested": "[1.2.772, 1.2.772]",
-        "resolved": "1.2.772",
-        "contentHash": "+SqFCO8EtQYsEWfSOasE5zMst5Q+PP9I5CjBCqoLnugeWwiDZ3+sB4pymS8ab5EFPsaAQpdhQkjZjPpNBxCaLQ=="
+        "requested": "[1.2.775, 1.2.775]",
+        "resolved": "1.2.775",
+        "contentHash": "5CxlgPDbLJ3/kGA103FF8OFZtTXcS58WYOt7unnry+KBuWrdnv5YbpV+9VX34j5ZaRQszmji9bmmfgfQikB1TQ=="
       },
       "nanoFramework.Iot.Device.ServoMotor": {
         "type": "Direct",
